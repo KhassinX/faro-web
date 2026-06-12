@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="Faro">
+  <defs>
+    <linearGradient id="fr_bg" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0%" stop-color="#FBEFE9"/><stop offset="100%" stop-color="#F5E3D8"/></linearGradient>
+    <linearGradient id="fr_tower" x1="512" y1="300" x2="512" y2="820" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#E85D2C"/><stop offset="1" stop-color="#C2410C"/></linearGradient>
+    <clipPath id="fr_clip"><rect width="1024" height="1024" rx="224" ry="224"/></clipPath>
+  </defs>
+  <g clip-path="url(#fr_clip)">
+    <rect width="1024" height="1024" fill="url(#fr_bg)"/>
+    <!-- guiding light, beaming sideways -->
+    <path d="M 512 300 L 232 168 L 232 432 Z" fill="#E85D2C" opacity="0.28"/>
+    <path d="M 512 300 L 792 168 L 792 432 Z" fill="#E85D2C" opacity="0.28"/>
+    <circle cx="512" cy="300" r="80" fill="#9A330A"/>
+    <!-- lantern room -->
+    <path d="M 420 300 L 604 300 L 576 392 L 448 392 Z" fill="#9A330A"/>
+    <!-- tower body (tapered) -->
+    <path d="M 448 392 L 576 392 L 632 820 L 392 820 Z" fill="url(#fr_tower)"/>
+    <!-- white bands -->
+    <path d="M 470 524 L 554 524 L 562 588 L 462 588 Z" fill="#FBEFE9"/>
+    <path d="M 446 700 L 578 700 L 588 764 L 436 764 Z" fill="#FBEFE9"/>
+    <!-- base -->
+    <rect x="356" y="820" width="312" height="58" rx="14" fill="#9A330A"/>
+  </g>
+</svg>

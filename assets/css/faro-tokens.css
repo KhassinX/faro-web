@@ -1,0 +1,192 @@
+/*
+ * faro-tokens.css — Layer 2 Faro brand tokens — Apple-canon + Faro lighthouse light
+ *
+ * Per-app brand for faro.khassinx.com. Distinct de Layer 1 KhassinX umbrella
+ * (umbrella es neutral Apple blue, Faro es Apple-canon + the warm light of a lighthouse).
+ *
+ * Source: ~/KhassinX/_template/BRAND_SYSTEM.md §3 (Layer 2 conventions)
+ * + §2 (Layer 1 Apple canon) + §4-5 (typography/spacing Apple-grade).
+ *
+ * Strategy: marketing pages Apple-canon light minimalism (Editor's Choice
+ * standard). The warm lighthouse glow is the single restraint accent.
+ *
+ * Brand origin: a lighthouse is light that guides without intruding — present,
+ * constant, never chasing the boat. The accent is that warm guiding light.
+ *   - Lighthouse rust   #C2410C  (CTA/link — WCAG AA on white: 5.18:1)
+ *   - Rust strong       #9A330A  (hover/active darker)
+ *   - Rust soft         #FBEFE9  (subtle backgrounds)
+ *   - Coral bright      #E85D2C  (vibrant decorative)
+ * Mirrors the Faro lighthouse-band palette in FaroCore (coralBand family).
+ */
+
+:root {
+  /* ─── Light theme (default — Apple canon) ─── */
+
+  /* Backgrounds (Apple canon) */
+  --faro-bg: #FFFFFF;
+  --faro-bg-section: #F5F5F7;
+  --faro-bg-card: #FBFBFD;
+  --faro-bg-elevated: #FFFFFF;
+
+  /* Text (Apple canon — exact apple.com values) */
+  --faro-text-primary: #1D1D1F;
+  --faro-text-secondary: #6E6E73;
+  --faro-text-tertiary: #86868B;
+  --faro-text-disabled: #C7C7CC;
+
+  /* Accents — Faro lighthouse light signature */
+  --faro-accent: #C2410C;            /* CTA/link rust (WCAG AA on white: 5.18:1) */
+  --faro-accent-strong: #9A330A;     /* Hover/active darker */
+  --faro-accent-soft: #FBEFE9;       /* Subtle backgrounds */
+  --faro-accent-bright: #E85D2C;     /* Vibrant decorative (borders, hover bg) */
+
+  /* Borders (Apple hairline) */
+  --faro-border: #D2D2D7;
+  --faro-border-strong: #86868B;
+
+  /* Status (Apple system colors) */
+  --faro-success: #34C759;
+  --faro-warning: #FF9500;
+  --faro-danger: #FF3B30;
+
+  /* ─── Re-bind a Layer 1 token names so primitives.css works ─── */
+  --khassinx-bg: var(--faro-bg);
+  --khassinx-bg-section: var(--faro-bg-section);
+  --khassinx-bg-card: var(--faro-bg-card);
+  --khassinx-bg-elevated: var(--faro-bg-elevated);
+  --khassinx-text-primary: var(--faro-text-primary);
+  --khassinx-text-secondary: var(--faro-text-secondary);
+  --khassinx-text-tertiary: var(--faro-text-tertiary);
+  --khassinx-text-disabled: var(--faro-text-disabled);
+  --khassinx-accent: var(--faro-accent);
+  --khassinx-accent-strong: var(--faro-accent-strong);
+  --khassinx-accent-soft: var(--faro-accent-soft);
+  --khassinx-border: var(--faro-border);
+  --khassinx-border-strong: var(--faro-border-strong);
+  --khassinx-success: var(--faro-success);
+  --khassinx-warning: var(--faro-warning);
+  --khassinx-danger: var(--faro-danger);
+
+  /* Spacing scale (Layer 3 — Apple-grade) */
+  --space-xs: 4px;
+  --space-s: 8px;
+  --space-m: 12px;
+  --space-md: 16px;
+  --space-lg: 20px;
+  --space-xl: 24px;
+  --space-2xl: 32px;
+  --space-3xl: 48px;
+  --space-4xl: 64px;
+  --space-5xl: 96px;
+  --space-6xl: 128px;
+  --space-7xl: 160px;
+  --space-8xl: 200px;
+
+  /* Container max-widths (Apple-canonical 980px) */
+  --container-narrow: 640px;
+  --container-default: 980px;
+  --container-wide: 1280px;
+
+  /* Border radius (Apple soft corners) */
+  --radius-s: 6px;
+  --radius-m: 8px;
+  --radius-md: 12px;
+  --radius-lg: 18px;
+  --radius-xl: 22px;
+  --radius-2xl: 28px;
+  --radius-pill: 999px;
+
+  /* Typography (Layer 3 Apple canon) */
+  --font-stack: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Helvetica Neue", Arial, sans-serif;
+  --font-mono: "SF Mono", Menlo, Consolas, monospace;
+
+  --fs-display-xl: 80px;
+  --fs-display-l: 56px;
+  --fs-display-m: 40px;
+  --fs-display-s: 32px;
+  --fs-h1: 48px;
+  --fs-h2: 32px;
+  --fs-h3: 24px;
+  --fs-h4: 19px;
+  --fs-body-l: 19px;
+  --fs-body: 17px;
+  --fs-body-s: 15px;
+  --fs-caption: 13px;
+  --fs-micro: 11px;
+
+  --fw-regular: 400;
+  --fw-medium: 500;
+  --fw-semibold: 600;
+  --fw-bold: 700;
+
+  --lh-display: 1.05;
+  --lh-heading: 1.1;
+  --lh-body: 1.47;
+  --lh-tight: 1.2;
+
+  --ls-display: -0.025em;
+  --ls-heading: -0.02em;
+  --ls-body: -0.005em;
+  --ls-caps: 0.05em;
+
+  /* Shadows (Apple-canonical subtle) */
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.04);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.06);
+  --shadow-lg: 0 12px 32px rgba(0, 0, 0, 0.08);
+
+  /* Transitions (Apple-canonical 200-300ms ease) */
+  --transition-fast: 150ms ease;
+  --transition-base: 250ms ease;
+  --transition-slow: 400ms ease;
+}
+
+/* ─── Dark theme (auto via prefers-color-scheme) ─── */
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    /* Backgrounds (Apple OLED-optimized) */
+    --faro-bg: #000000;
+    --faro-bg-section: #1D1D1F;
+    --faro-bg-card: #2C2C2E;             /* IMPORTANT: NO #1D1D1F — must differ from section */
+    --faro-bg-elevated: #2C2C2E;
+
+    /* Text (Apple canon dark) */
+    --faro-text-primary: #F5F5F7;
+    --faro-text-secondary: #A1A1A6;
+    --faro-text-tertiary: #8E8E93;
+    --faro-text-disabled: #48484A;
+
+    /* Accents — Faro coral band, brighter for dark mode legibility */
+    --faro-accent: #FF8563;            /* Coral lighthouse band on black (WCAG AA dark: 8.79:1) */
+    --faro-accent-strong: #FF9E80;     /* Hover lighter for contrast on dark */
+    --faro-accent-soft: #2A1712;       /* Subtle backgrounds (deep warm) */
+    --faro-accent-bright: #FF8563;     /* Vibrant decorative */
+
+    /* Borders (Apple dark hairline) */
+    --faro-border: #38383A;
+    --faro-border-strong: #48484A;
+
+    /* Status (Apple system colors dark) */
+    --faro-success: #30D158;
+    --faro-warning: #FF9F0A;
+    --faro-danger: #FF453A;
+
+    /* Re-bind a Layer 1 names */
+    --khassinx-bg: var(--faro-bg);
+    --khassinx-bg-section: var(--faro-bg-section);
+    --khassinx-bg-card: var(--faro-bg-card);
+    --khassinx-bg-elevated: var(--faro-bg-elevated);
+    --khassinx-text-primary: var(--faro-text-primary);
+    --khassinx-text-secondary: var(--faro-text-secondary);
+    --khassinx-text-tertiary: var(--faro-text-tertiary);
+    --khassinx-text-disabled: var(--faro-text-disabled);
+    --khassinx-accent: var(--faro-accent);
+    --khassinx-accent-strong: var(--faro-accent-strong);
+    --khassinx-accent-soft: var(--faro-accent-soft);
+    --khassinx-border: var(--faro-border);
+    --khassinx-border-strong: var(--faro-border-strong);
+    --khassinx-success: var(--faro-success);
+    --khassinx-warning: var(--faro-warning);
+    --khassinx-danger: var(--faro-danger);
+  }
+}

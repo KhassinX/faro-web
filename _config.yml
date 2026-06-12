@@ -1,0 +1,102 @@
+title: Faro
+description: A private, end-to-end encrypted bridge between a trusted adult and a child living apart. Warm, ad-free, built natively for iPhone, iPad, Mac, and Apple Watch.
+url: https://faro.khassinx.com
+lang: en
+
+# Layer 2 brand tokens (Faro specific) extending Layer 3 primitives
+app_tokens_css: /assets/css/faro-tokens.css
+
+# Favicons — SVG monogram + PNG fallbacks
+favicon_svg: /assets/favicons/favicon.svg
+favicon_32: /assets/favicons/favicon-32.png
+favicon_16: /assets/favicons/favicon-16.png
+apple_touch_icon: /assets/favicons/apple-touch-icon.png
+
+# Social / Open Graph + Twitter
+og_site_name: Faro
+og_image: /assets/og/og-image.png
+og_image_es: /assets/og/og-image-es.png
+og_image_width: 1200
+og_image_height: 630
+og_image_alt: "Faro — a private bridge between a trusted adult and a child"
+og_image_alt_es: "Faro — un puente privado entre un adulto de confianza y un niño"
+twitter_card: summary_large_image
+
+# JSON-LD (SoftwareApplication, publisher KhassinX)
+org:
+  name: KhassinX
+
+# Navigation — keyed per locale. base.html selects via page.lang con fallback a 'en'.
+nav:
+  en:
+    - title: Security
+      url: /security/
+    - title: Support
+      url: /support/
+    - title: Legal
+      url: /legal/
+  es:
+    - title: Seguridad
+      url: /es/security/
+    - title: Soporte
+      url: /es/support/
+    - title: Legal
+      url: /es/legal/
+
+footer_nav:
+  en:
+    - title: Privacy
+      url: /legal/privacy/
+    - title: Terms
+      url: /legal/terms/
+    - title: Legal
+      url: /legal/
+    - title: Security
+      url: /security/
+    - title: Support
+      url: /support/
+    - title: Contact
+      url: mailto:hello@khassinx.com
+  es:
+    - title: Privacidad
+      url: /es/legal/privacy/
+    - title: Términos
+      url: /es/legal/terms/
+    - title: Legal
+      url: /es/legal/
+    - title: Seguridad
+      url: /es/security/
+    - title: Soporte
+      url: /es/support/
+    - title: Contacto
+      url: mailto:hello@khassinx.com
+
+# UI strings (skip-link y "Part of ecosystem") consumed by base.html
+ui_strings:
+  en:
+    skip_to_main: "Skip to main content"
+    part_of_ecosystem_prefix: "Part of the"
+    part_of_ecosystem_label: "KhassinX ecosystem"
+    ecosystem_url: "https://khassinx.com"
+  es:
+    skip_to_main: "Saltar al contenido principal"
+    part_of_ecosystem_prefix: "Parte del"
+    part_of_ecosystem_label: "ecosistema KhassinX"
+    ecosystem_url: "https://khassinx.com/es/"
+
+# Jekyll config
+markdown: kramdown
+plugins:
+  - jekyll-redirect-from
+  - jekyll-sitemap
+
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - .gitignore
+  - LICENSE
+
+# Jekyll por default ignora dotfiles/dotdirs. .well-known DEBE servirse
+# (RFC 9116 security.txt requiere path exacto /.well-known/security.txt).
+include:
+  - .well-known

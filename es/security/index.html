@@ -1,0 +1,92 @@
+---
+layout: base
+title: Seguridad y divulgación responsable
+description: Cómo Faro protege a un niño en un canal cerrado y cifrado de extremo a extremo, y cómo reportar de forma responsable una vulnerabilidad de seguridad.
+permalink: /es/security/
+lang: es
+canonical_en: /security/
+canonical_es: /es/security/
+---
+
+<section class="section">
+  <div class="container container-narrow">
+    <h1>Seguridad y divulgación responsable</h1>
+
+    <p class="lead">Faro es un espacio para un niño. Aquí la seguridad no es una función — es el cimiento. Esta página explica cómo el canal cerrado protege a un niño, y cómo reportar un problema si encuentras uno.</p>
+
+    <p>Esta página cubre Faro específicamente. Para la política general de todas las apps de KhassinX, ve <a href="https://khassinx.com/es/security/">khassinx.com/es/security</a>.</p>
+
+    <h2>Cómo Faro protege a un niño</h2>
+
+    <h3>Un canal cerrado — sin extraños, jamás</h3>
+    <p>Faro es un jardín amurallado. Un niño solo puede hablar con los adultos que un adulto verificó y vinculó a él, uno por uno. No hay descubrimiento, ni perfiles públicos, ni solicitudes de amistad, ni forma de que una persona desconocida llegue a un niño. La app del niño no puede buscar ni escribirle a nadie fuera de sus vínculos verificados.</p>
+
+    <h3>Vínculos verificados</h3>
+    <p>Cada vínculo lo configura un adulto y se confirma cara a cara. Al emparejar dos dispositivos, ambas pantallas muestran una secuencia corta de símbolos que el adulto y el niño se leen entre sí — normalmente en una llamada. Si coinciden, el vínculo es de confianza. Esto frena la suplantación, incluso si alguien intercepta el enlace de invitación.</p>
+
+    <h3>Sellado de extremo a extremo</h3>
+    <p>Cada mensaje, cada dibujo y cada recuerdo está cifrado de extremo a extremo con CryptoKit de Apple. El contenido se sella en un dispositivo y solo se abre en el dispositivo verificado del otro lado. El otro hogar no puede leer un vínculo que no es suyo — y nosotros tampoco. No tenemos claves ni guardamos copias en ningún servidor.</p>
+
+    <h3>Reportar y bloquear</h3>
+    <p>Cualquier adulto puede reportar o bloquear un contacto desde dentro de Faro en cualquier momento. Como el contenido está cifrado de extremo a extremo, un reporte comparte solo lo que tú elijas enviar — nunca leemos tus conversaciones. Los reportes nos ayudan a mantener el canal seguro.</p>
+
+    <h3>Un asistente delicado, en el dispositivo</h3>
+    <p>La IA de Faro corre completamente en tu dispositivo. Está hecha para ser segura con los niños: cuando un niño plantea un tema sensible, lo guía con suavidad de vuelta hacia su adulto de confianza en lugar de responder. Nunca crea un perfil de un niño y nunca envía una conversación fuera del dispositivo.</p>
+
+    <h2>Cómo reportar una vulnerabilidad</h2>
+    <p>
+      Correo: <a href="mailto:security@khassinx.com">security@khassinx.com</a><br>
+      Apuntador legible por máquina: <a href="/.well-known/security.txt">/.well-known/security.txt</a> (RFC 9116)
+    </p>
+    <p class="text-secondary">Por favor incluye: una breve descripción, pasos para reproducir, el impacto que observaste, y cualquier herramienta o cuenta que usaste. Nunca incluyas datos ni contenido reales de otra persona.</p>
+
+    <h2>Alcance</h2>
+    <ul>
+      <li><code>faro.khassinx.com</code> (este sitio web)</li>
+      <li>La app de Faro para adultos y la app de Faro para niños en el App Store</li>
+      <li>Los flujos de emparejamiento, cifrado y sincronización de Faro</li>
+    </ul>
+
+    <h2>Fuera de alcance</h2>
+    <ul>
+      <li>Servicios de terceros (App Store de Apple, iCloud, FaceTime, Apple Push) — repórtalos directamente a Apple</li>
+      <li>Ataques volumétricos (DDoS, fuerza bruta) — no son vulnerabilidades</li>
+      <li>Reportes generados solo por escáneres automáticos sin prueba de impacto reproducible</li>
+      <li>Cuestiones teóricas sin un vector de ataque demostrable</li>
+      <li>Spoofing de correo en subdominios donde publicamos explícitamente SPF/DKIM/DMARC</li>
+    </ul>
+
+    <h2>Tiempos de respuesta</h2>
+    <ul>
+      <li><strong>Acuse de recibo</strong>: dentro de cinco días hábiles</li>
+      <li><strong>Triaje inicial</strong>: dentro de catorce días</li>
+      <li><strong>Cronograma de divulgación coordinada</strong>: acordado caso por caso, típicamente noventa días para no críticos, acelerado para críticos</li>
+    </ul>
+
+    <h2>Puerto seguro</h2>
+    <p>No emprenderemos acciones legales contra investigadores que actúen de buena fe — investigando, reportando y respetando nuestras reglas de alcance. Esto incluye acceder solo a los datos necesarios para demostrar el problema, nunca exfiltrar contenido de usuarios y darnos tiempo razonable para remediar antes de la divulgación pública.</p>
+
+    <h2>Reconocimiento</h2>
+    <p>Damos la bienvenida a la divulgación responsable y queremos que valga tu tiempo. Actualmente no tenemos un programa monetario de bug bounty, pero ofrecemos:</p>
+    <ul>
+      <li>Reconocimiento público en esta página (con tu consentimiento, en la forma que prefieras)</li>
+      <li>Comunicación directa con el equipo de ingeniería que maneja la solución</li>
+      <li>Crédito formal en nuestras notas de versión cuando la solución se publique</li>
+    </ul>
+    <p class="text-secondary">Si encuentras una falla que pueda exponer el contenido de un niño o romper el canal cerrado, la tratamos como la máxima prioridad — escríbenos y responderemos rápido.</p>
+
+    <h2>Qué te pedimos evitar</h2>
+    <ul>
+      <li>No accedas, modifiques ni borres contenido de otras personas</li>
+      <li>No realices pruebas que degraden el servicio para otros usuarios</li>
+      <li>No divulgues públicamente una vulnerabilidad antes de que tengamos una oportunidad razonable de arreglarla</li>
+      <li>No pruebes contra vínculos reales ni contenido real de niños</li>
+    </ul>
+
+    <h2>Contacto</h2>
+    <p>
+      Divulgación de seguridad: <a href="mailto:security@khassinx.com">security@khassinx.com</a> (clave PGP disponible a solicitud)<br>
+      Contacto general: <a href="mailto:hello@khassinx.com">hello@khassinx.com</a>
+    </p>
+  </div>
+</section>
