@@ -10,7 +10,7 @@ redirect_from:
   - /PRIVACY_POLICY/
   - /privacy
   - /privacy/
-updated: 2026-06-12
+updated: 2026-07-11
 ---
 
 # Privacy Policy — Faro
@@ -92,6 +92,10 @@ If you choose a paid unlock or an optional subscription, it is processed entirel
 ## Notifications
 
 Push notifications are opt-in. If you allow them, your device receives an Apple Push Notification token used only to deliver the signals you turn on (a new message, an incoming call). We do not send marketing notifications. Faro has no mailing list.
+
+## This website
+
+This site is static. It sets no cookies of its own, runs no analytics or tracking of any kind, embeds no third-party scripts or pixels, and has no forms. We do not track anyone, so there is nothing for a "Do Not Track" signal to turn off, and no third party is permitted to collect information about your activity across sites through this website. The site is served by GitHub Pages with DNS and delivery by Cloudflare; like any web host, those providers process standard technical request data (such as your IP address) to deliver and protect the site, as independent companies under their own privacy policies. We do not receive, keep, or use that data.
 
 ## If you contact us
 
