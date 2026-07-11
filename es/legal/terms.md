@@ -54,7 +54,7 @@ Te comprometes a usar Faro solo para fines personales, lícitos y de cuidado. **
 - Tergiversar tu relación con un niño o tu facultad para consentir en su nombre.
 - Hacer ingeniería inversa, descompilar ni intentar derivar el código fuente de la app.
 - Usar sistemas automáticos para extraer o raspar datos de la app.
-- Usar la app de forma que viole las políticas del App Store de Apple o la ley aplicable.
+- Usar la app de forma que viole las políticas del App Store o la ley aplicable.
 
 Podemos suspender o terminar el acceso por mal uso, y cooperaremos con solicitudes legales cuando sea requerido.
 
