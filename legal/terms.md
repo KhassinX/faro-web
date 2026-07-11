@@ -10,7 +10,7 @@ redirect_from:
   - /TERMS_OF_USE/
   - /terms
   - /terms/
-updated: 2026-06-12
+updated: 2026-07-11
 ---
 
 # Terms of Use — Faro
@@ -112,6 +112,22 @@ We may update these terms when adding features that materially change the experi
 ## 14. Governing law and disputes
 
 These terms are governed by the laws of the **State of Florida, United States** — the jurisdiction in which KHASSINX LLC is formed — without regard to conflict-of-laws principles. You agree to attempt informal resolution by emailing legal@khassinx.com **before** pursuing formal legal action. If any provision is found unenforceable, the rest remains in effect.
+
+## Availability and unofficial installs
+
+Faro is distributed exclusively through the App Store, and only in the territories where we choose to offer it. If you obtain, install, or use the app through any other channel — including sideloading, jailbroken devices, or circumventing App Store security or regional restrictions — that use is unauthorized and unsupported: we are not responsible for it, we provide no warranty or support for it, and complying with the laws that apply to you is solely your responsibility.
+
+## Indemnification
+
+You agree to indemnify and hold KHASSINX LLC harmless from claims, damages, and reasonable attorneys' fees arising from your violation of these terms or your misuse of the app, to the extent permitted by the law that applies to you.
+
+## Disputes
+
+Before filing any claim, you agree to email [`legal@khassinx.com`](mailto:legal@khassinx.com) and give us sixty days to try to resolve the dispute informally. Except where the law gives you the right to sue elsewhere (including small-claims court), disputes will be resolved in the state or federal courts located in Florida, and each of us consents to their jurisdiction. To the extent permitted by law, claims may only be brought individually, not as part of a class or representative action. If you are a consumer in a jurisdiction whose law grants you mandatory protections, those protections remain yours.
+
+## General terms
+
+If part of these terms is found unenforceable, the rest remains in effect. Our failure to enforce a provision is not a waiver. You may not assign these terms; we may assign them as part of a reorganization or transfer of the service. We are not responsible for delay or failure caused by events beyond our reasonable control. These terms are published in English and Español; if the versions ever conflict, the English version controls.
 
 ## 15. Contact
 
