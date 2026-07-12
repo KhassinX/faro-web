@@ -33,3 +33,7 @@ Short aliases: [/privacy/](/legal/privacy/) · [/terms/](/legal/terms/)
 These legal documents are released under **CC0 1.0** (public domain dedication) — feel free to adapt them for your own privacy-first family apps. They reflect a zero-data, end-to-end encrypted architecture that may not apply to apps with different data practices.
 
 The Faro app itself is **proprietary** and not covered by this CC0 dedication.
+
+## Trademarks
+
+Apple, iPhone, iPad, Mac, Apple Watch, App Store, iCloud, CryptoKit, iPadOS, macOS, and watchOS are trademarks of Apple Inc., registered in the U.S. and other countries. Apple Intelligence is a trademark of Apple Inc. IOS is a trademark or registered trademark of Cisco in the U.S. and other countries and is used under license. KhassinX and Faro are trademarks of KHASSINX LLC. All other trademarks are the property of their respective owners.
