@@ -66,10 +66,10 @@ You can report or block a contact from inside Faro at any time. Reports help us 
 
 ## 6. Purchases and subscriptions
 
-Faro's core experience — including all safety and emergency features — is **free and never behind a paywall**. Optional paid features (a one-time "Faro Family" unlock and an optional subscription) are processed entirely by **Apple StoreKit** under your Apple ID.
+Faro's core experience — including all safety and emergency features — is **free and never behind a paywall**. Optional paid features (a one-time "Faro Family" unlock and an optional subscription) are processed entirely by **Apple StoreKit** under your Apple Account.
 
 - Purchases pass through a parental gate, per Apple's policies.
-- Subscriptions auto-renew under your Apple ID until you cancel. Manage or cancel from Settings → Apple ID → Subscriptions.
+- Subscriptions auto-renew under your Apple Account until you cancel. Manage or cancel from Settings → your name → Subscriptions.
 - **Refunds** are handled by Apple. Request through your App Store purchase history. We do not process payments and cannot grant or deny refunds directly.
 - Any change to the price of an existing subscription is communicated in advance, with the option to cancel before it applies.
 
@@ -109,27 +109,27 @@ You may stop using Faro at any time by deleting your account and content from in
 
 We may update these terms when adding features that materially change the experience, reflecting changes in Apple's policies, or correcting errors. Material changes will be reflected with a new "Effective date" at the top. Continued use after a change constitutes acceptance.
 
-## 14. Governing law and disputes
+## 14. Governing law
 
-These terms are governed by the laws of the **State of Florida, United States** — the jurisdiction in which KHASSINX LLC is formed — without regard to conflict-of-laws principles. You agree to attempt informal resolution by emailing legal@khassinx.com **before** pursuing formal legal action. If any provision is found unenforceable, the rest remains in effect.
+These terms are governed by the laws of the **State of Florida, United States** — the jurisdiction in which KHASSINX LLC is formed — without regard to conflict-of-laws principles. Dispute resolution is described in Section 17 (Disputes).
 
-## Availability and unofficial installs
+## 15. Availability and unofficial installs
 
 Faro is distributed exclusively through the App Store, and only in the territories where we choose to offer it. If you obtain, install, or use the app through any other channel — including sideloading, jailbroken devices, or circumventing App Store security or regional restrictions — that use is unauthorized and unsupported: we are not responsible for it, we provide no warranty or support for it, and complying with the laws that apply to you is solely your responsibility.
 
-## Indemnification
+## 16. Indemnification
 
 You agree to indemnify and hold KHASSINX LLC harmless from claims, damages, and reasonable attorneys' fees arising from your violation of these terms or your misuse of the app, to the extent permitted by the law that applies to you.
 
-## Disputes
+## 17. Disputes
 
 Before filing any claim, you agree to email [`legal@khassinx.com`](mailto:legal@khassinx.com) and give us sixty days to try to resolve the dispute informally. Except where the law gives you the right to sue elsewhere (including small-claims court), disputes will be resolved in the state or federal courts located in Florida, and each of us consents to their jurisdiction. To the extent permitted by law, claims may only be brought individually, not as part of a class or representative action. If you are a consumer in a jurisdiction whose law grants you mandatory protections, those protections remain yours.
 
-## General terms
+## 18. General terms
 
 If part of these terms is found unenforceable, the rest remains in effect. Our failure to enforce a provision is not a waiver. You may not assign these terms; we may assign them as part of a reorganization or transfer of the service. We are not responsible for delay or failure caused by events beyond our reasonable control. These terms are published in English and Español; if the versions ever conflict, the English version controls.
 
-## 15. Contact
+## 19. Contact
 
 - **Email**: legal@khassinx.com
 - **Mail**: Available on written request via email
