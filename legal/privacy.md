@@ -57,7 +57,7 @@ Faro is built so that your family's content never reaches a server we control.
 | Encryption keys | In your device's Secure Enclave and iCloud Keychain — never exported to us |
 | Bond / pairing material | Exchanged end-to-end encrypted between the two devices; we never see the keys |
 
-iCloud sync uses **your** Apple Account. We never see, access, or have any way to retrieve it. Apple encrypts it in transit and at rest, and end to end where you have enabled Advanced Data Protection. If you delete the app and remove its iCloud data, your copy is gone — and there is no other copy on any server, because **we do not run a server that stores your content.**
+iCloud sync uses **your** Apple Account. We never see it, access it, or have any way to retrieve it. Apple encrypts your data in transit and at rest, and end to end where you have enabled Advanced Data Protection. If you delete the app and remove its iCloud data, your copy is gone — and there is no other copy on any server, because **we do not run a server that stores your content.**
 
 ## End-to-end encryption
 

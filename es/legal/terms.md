@@ -107,7 +107,7 @@ Puedes dejar de usar Faro cuando quieras borrando tu cuenta y tu contenido desde
 
 Podemos actualizar estos términos al agregar funciones que cambien materialmente la experiencia, al reflejar cambios en las políticas de Apple, o al corregir errores. Los cambios materiales se reflejarán con una nueva "Fecha de vigencia" arriba. El uso continuado tras un cambio constituye aceptación.
 
-## 14. Ley aplicable y disputas
+## 14. Ley aplicable
 
 Estos términos se rigen por las leyes del **Estado de Florida, Estados Unidos** — la jurisdicción en la que KHASSINX LLC está constituida — sin consideración a sus principios de conflicto de leyes. La resolución de disputas se describe en la Sección 17 (Disputas).
 

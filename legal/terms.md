@@ -109,7 +109,7 @@ You may stop using Faro at any time by deleting your account and content from in
 
 We may update these terms when adding features that materially change the experience, reflecting changes in Apple's policies, or correcting errors. Material changes will be reflected with a new "Effective date" at the top. Continued use after a change constitutes acceptance.
 
-## 14. Governing law and disputes
+## 14. Governing law
 
 These terms are governed by the laws of the **State of Florida, United States** — the jurisdiction in which KHASSINX LLC is formed — without regard to conflict-of-laws principles. Dispute resolution is described in Section 17 (Disputes).
 
