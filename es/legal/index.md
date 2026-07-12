@@ -33,3 +33,7 @@ Alias cortos: [/privacidad](/es/legal/privacy/) · [/terminos](/es/legal/terms/)
 Estos documentos legales están publicados bajo **CC0 1.0** (dedicación al dominio público) — siéntete libre de adaptarlos para tus propias apps familiares privacy-first. Reflejan una arquitectura de cero datos y cifrado de extremo a extremo que tal vez no aplique a apps con otras prácticas de datos.
 
 La app de Faro en sí es **propietaria** y no está cubierta por esta dedicación CC0.
+
+## Marcas comerciales
+
+Apple, iPhone, iPad, Mac, Apple Watch, App Store, iCloud, CryptoKit, iPadOS, macOS y watchOS son marcas comerciales de Apple Inc., registradas en EE. UU. y otros países. Apple Intelligence es una marca comercial de Apple Inc. IOS es una marca comercial o marca registrada de Cisco en EE. UU. y otros países y se utiliza bajo licencia. KhassinX y Faro son marcas comerciales de KHASSINX LLC. Las demás marcas comerciales pertenecen a sus respectivos propietarios.
