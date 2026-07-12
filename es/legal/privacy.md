@@ -22,7 +22,7 @@ updated: 2026-07-11
 
 ## Resumen
 
-Faro es un espacio privado y cifrado de extremo a extremo donde un adulto de confianza y un niño o niña siguen cerca a la distancia. **No recopilamos tus datos.** Tus mensajes, dibujos, recuerdos y llamadas se sellan de extremo a extremo y viven solo en tus dispositivos y en tu propio iCloud — controlado por tu Apple ID, no por nosotros. No tenemos ningún servidor con el contenido de tu familia, ni publicidad, ni analytics, ni trackers. No hay nada que vender, porque no hay nada recopilado.
+Faro es un espacio privado y cifrado de extremo a extremo donde un adulto de confianza y un niño o niña siguen cerca a la distancia. **No recopilamos tus datos.** Tus mensajes, dibujos, recuerdos y llamadas se sellan de extremo a extremo y viven solo en tus dispositivos y en tu propio iCloud — controlado por tu Cuenta de Apple, no por nosotros. No tenemos ningún servidor con el contenido de tu familia, ni publicidad, ni analytics, ni trackers. No hay nada que vender, porque no hay nada recopilado.
 
 Puedes reportar o bloquear un contacto desde dentro de la app, y puedes acceder, exportar o borrar tus datos cuando quieras.
 
@@ -51,11 +51,11 @@ Faro está construida para que el contenido de tu familia nunca llegue a un serv
 
 | Qué | Dónde |
 |---|---|
-| Mensajes, dibujos, cápsulas del tiempo, recuerdos, tu historial de actividad | En tu dispositivo + **tu iCloud personal** (cifrado por Apple, tu Apple ID) |
+| Mensajes, dibujos, cápsulas del tiempo, recuerdos, tu historial de actividad | En tu dispositivo + **tu iCloud personal** (cifrado por Apple, con tu Cuenta de Apple) |
 | Claves de cifrado | En el Secure Enclave de tu dispositivo y en el Llavero de iCloud — nunca se exportan a nosotros |
 | Material del vínculo / emparejamiento | Se intercambia cifrado de extremo a extremo entre los dos dispositivos; nunca vemos las claves |
 
-La sincronización de iCloud usa **tu** Apple ID. Nunca lo vemos, accedemos ni tenemos forma de recuperarlo. Apple lo cifra en tránsito y en reposo, y de extremo a extremo cuando tienes activada la Protección de Datos Avanzada. Si borras la app y eliminas sus datos de iCloud, tu copia desaparece — y no hay otra copia en ningún servidor, porque **no tenemos un servidor que guarde tu contenido.**
+La sincronización de iCloud usa **tu** Cuenta de Apple. Nunca la vemos, no accedemos a ella ni tenemos forma de recuperarla. Apple cifra los datos en tránsito y en reposo, y de extremo a extremo cuando tienes activada la Protección de Datos Avanzada. Si borras la app y eliminas sus datos de iCloud, tu copia desaparece — y no hay otra copia en ningún servidor, porque **no tenemos un servidor que guarde tu contenido.**
 
 ## Cifrado de extremo a extremo
 
@@ -67,7 +67,7 @@ Todo lo que tú y tu hijo o hija comparten en Faro está **cifrado de extremo a 
 
 ## Cómo se crean los vínculos (y cómo se mantienen seguros)
 
-Un adulto configura cada vínculo. Para conectar el dispositivo de un adulto con el de un niño entre dos cuentas Apple distintas, Faro usa una invitación más un paso de verificación fuera de banda: ambas pantallas muestran una secuencia corta de símbolos, y el adulto y el niño confirman que coinciden — normalmente en una llamada juntos. Esto frena la suplantación y confirma que las dos personas son quienes dicen ser. No interviene ningún tercero, y la verificación ocurre directamente entre el adulto y el niño.
+Un adulto configura cada vínculo. Para conectar el dispositivo de un adulto con el de un niño entre dos Cuentas de Apple distintas, Faro usa una invitación más un paso de verificación fuera de banda: ambas pantallas muestran una secuencia corta de símbolos, y el adulto y el niño confirman que coinciden — normalmente en una llamada juntos. Esto frena la suplantación y confirma que las dos personas son quienes dicen ser. No interviene ningún tercero, y la verificación ocurre directamente entre el adulto y el niño.
 
 ## Inteligencia en el dispositivo (Apple Intelligence)
 
@@ -79,13 +79,13 @@ Este modelo corre **completamente en tu dispositivo**. Tus conversaciones nunca 
 
 Faro siempre la configura un adulto, en nombre del niño o niña. El adulto que instala la app del niño y da el consentimiento debe atestiguar que es el **padre, la madre, el tutor legal o un adulto legalmente autorizado** del menor. Faro captura esa atestación durante la configuración.
 
-Como un adulto configura y consiente cada vínculo, tratamos a **todo** niño o niña como que requiere consentimiento parental. Esto satisface la lectura más estricta de la ley de privacidad de menores — incluyendo **COPPA** (Estados Unidos) y **GDPR-K** (Unión Europea) — con un solo flujo consistente.
+Como un adulto configura y consiente cada vínculo, tratamos a **todo** niño o niña como que requiere consentimiento parental. Esto está diseñado para satisfacer la lectura más estricta de la ley de privacidad de menores — incluyendo **COPPA** (Estados Unidos) y las reglas de consentimiento de menores del **RGPD** (Unión Europea) — con un solo flujo consistente.
 
 Nunca recopilamos a sabiendas datos personales directamente de un niño para nuestros propios fines. El contenido de un niño permanece dentro del vínculo cifrado, en sus dispositivos y en los del adulto.
 
 ## Suscripciones y compras
 
-Si eliges un desbloqueo de pago o una suscripción opcional, lo procesa por completo **Apple StoreKit**. Recibimos solo una señal de Apple de que un Apple ID tiene un acceso activo — nunca tu nombre, método de pago ni dirección de facturación. Apple maneja todo eso. Gestiona o cancela cuando quieras en Ajustes → Apple ID → Suscripciones. Todas las funciones de seguridad y emergencia de Faro son gratuitas y nunca están detrás de un muro de pago.
+Si eliges un desbloqueo de pago o una suscripción opcional, lo procesa por completo **Apple StoreKit**. Recibimos solo una señal de Apple de que una Cuenta de Apple tiene un acceso activo — nunca tu nombre, método de pago ni dirección de facturación. Apple maneja todo eso. Gestiona o cancela cuando quieras en Ajustes → tu nombre → Suscripciones. Todas las funciones de seguridad y emergencia de Faro son gratuitas y nunca están detrás de un muro de pago.
 
 ## Notificaciones
 
