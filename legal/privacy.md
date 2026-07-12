@@ -24,7 +24,7 @@ updated: 2026-07-11
 
 ## TL;DR
 
-Faro is a private, end-to-end encrypted space where a trusted adult and a child stay close across a distance. **We do not collect your data.** Your messages, drawings, memories, and calls are sealed end to end and live only on your devices and in your own iCloud — controlled by your Apple ID, not by us. We have no server holding your family's content, no advertising, no analytics, and no trackers. There is nothing for us to sell, because there is nothing collected.
+Faro is a private, end-to-end encrypted space where a trusted adult and a child stay close across a distance. **We do not collect your data.** Your messages, drawings, memories, and calls are sealed end to end and live only on your devices and in your own iCloud — controlled by your Apple Account, not by us. We have no server holding your family's content, no advertising, no analytics, and no trackers. There is nothing for us to sell, because there is nothing collected.
 
 You can report or block a contact from inside the app, and you can access, export, or delete your data at any time.
 
@@ -53,11 +53,11 @@ Faro is built so that your family's content never reaches a server we control.
 
 | What | Where |
 |---|---|
-| Messages, drawings, time capsules, memories, your activity history | On your device + **your personal iCloud** (encrypted by Apple, your Apple ID) |
+| Messages, drawings, time capsules, memories, your activity history | On your device + **your personal iCloud** (encrypted by Apple, under your Apple Account) |
 | Encryption keys | In your device's Secure Enclave and iCloud Keychain — never exported to us |
 | Bond / pairing material | Exchanged end-to-end encrypted between the two devices; we never see the keys |
 
-iCloud sync uses **your** Apple ID. We never see, access, or have any way to retrieve it. Apple encrypts it in transit and at rest, and end to end where you have enabled Advanced Data Protection. If you delete the app and remove its iCloud data, your copy is gone — and there is no other copy on any server, because **we do not run a server that stores your content.**
+iCloud sync uses **your** Apple Account. We never see, access, or have any way to retrieve it. Apple encrypts it in transit and at rest, and end to end where you have enabled Advanced Data Protection. If you delete the app and remove its iCloud data, your copy is gone — and there is no other copy on any server, because **we do not run a server that stores your content.**
 
 ## End-to-end encryption
 
@@ -69,7 +69,7 @@ Everything you and your child share in Faro is **end-to-end encrypted**. Content
 
 ## How bonds are created (and kept safe)
 
-A grown-up sets up every bond. To connect an adult's device with a child's device across two different Apple accounts, Faro uses an invitation plus an out-of-band verification step: both screens show a short sequence of symbols, and the adult and child confirm they match — usually on a call together. This defeats impersonation and confirms the two people are who they say they are. No third party is involved, and the verification happens directly between the adult and the child.
+A grown-up sets up every bond. To connect an adult's device with a child's device across two different Apple Accounts, Faro uses an invitation plus an out-of-band verification step: both screens show a short sequence of symbols, and the adult and child confirm they match — usually on a call together. This defeats impersonation and confirms the two people are who they say they are. No third party is involved, and the verification happens directly between the adult and the child.
 
 ## On-device intelligence (Apple Intelligence)
 
@@ -81,13 +81,13 @@ This model runs **entirely on your device**. Your conversations never leave your
 
 Faro is always set up by an adult, on the child's behalf. The adult who installs the child's app and consents must attest that they are the child's **parent, legal guardian, or a legally authorized adult**. Faro captures that attestation during setup.
 
-Because an adult sets up and consents to every bond, we treat **every** child as requiring parental consent. This satisfies the strictest reading of children's privacy law — including **COPPA** (United States) and **GDPR-K** (European Union) — with a single, consistent flow.
+Because an adult sets up and consents to every bond, we treat **every** child as requiring parental consent. This is designed to satisfy the strictest reading of children's privacy law — including **COPPA** (United States) and the **GDPR**'s children's-consent rules (European Union) — with a single, consistent flow.
 
 We never knowingly collect personal data directly from a child for our own purposes. A child's content stays within the encrypted bond, on their devices and the adult's.
 
 ## Subscriptions and purchases
 
-If you choose a paid unlock or an optional subscription, it is processed entirely by **Apple StoreKit**. We receive only a signal from Apple that an Apple ID has an active entitlement — never your name, payment method, or billing address. Apple handles all of that. Manage or cancel anytime in Settings → Apple ID → Subscriptions. All of Faro's safety and emergency features are free and never behind a paywall.
+If you choose a paid unlock or an optional subscription, it is processed entirely by **Apple StoreKit**. We receive only a signal from Apple that an Apple Account has an active entitlement — never your name, payment method, or billing address. Apple handles all of that. Manage or cancel anytime in Settings → your name → Subscriptions. All of Faro's safety and emergency features are free and never behind a paywall.
 
 ## Notifications
 

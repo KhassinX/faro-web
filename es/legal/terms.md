@@ -64,10 +64,10 @@ Puedes reportar o bloquear un contacto desde dentro de Faro en cualquier momento
 
 ## 6. Compras y suscripciones
 
-La experiencia central de Faro — incluyendo todas las funciones de seguridad y emergencia — es **gratuita y nunca está detrás de un muro de pago**. Las funciones de pago opcionales (un desbloqueo único "Faro Family" y una suscripción opcional) las procesa por completo **Apple StoreKit** bajo tu Apple ID.
+La experiencia central de Faro — incluyendo todas las funciones de seguridad y emergencia — es **gratuita y nunca está detrás de un muro de pago**. Las funciones de pago opcionales (un desbloqueo único "Faro Family" y una suscripción opcional) las procesa por completo **Apple StoreKit** bajo tu Cuenta de Apple.
 
 - Las compras pasan por una barrera parental, según las políticas de Apple.
-- Las suscripciones se renuevan automáticamente bajo tu Apple ID hasta que canceles. Gestiona o cancela desde Ajustes → Apple ID → Suscripciones.
+- Las suscripciones se renuevan automáticamente bajo tu Cuenta de Apple hasta que canceles. Gestiona o cancela desde Ajustes → tu nombre → Suscripciones.
 - Los **reembolsos** los maneja Apple. Solicítalos desde tu historial de compras del App Store. No procesamos pagos y no podemos otorgar ni denegar reembolsos directamente.
 - Cualquier cambio en el precio de una suscripción existente se comunica con antelación, con la opción de cancelar antes de que aplique.
 
@@ -109,25 +109,25 @@ Podemos actualizar estos términos al agregar funciones que cambien materialment
 
 ## 14. Ley aplicable y disputas
 
-Estos términos se rigen por las leyes del **Estado de Florida, Estados Unidos** — la jurisdicción en la que KHASSINX LLC está constituida — sin consideración a sus principios de conflicto de leyes. Te comprometes a intentar una resolución informal escribiendo a legal@khassinx.com **antes** de iniciar acciones legales formales. Si alguna disposición se considera inaplicable, el resto sigue vigente.
+Estos términos se rigen por las leyes del **Estado de Florida, Estados Unidos** — la jurisdicción en la que KHASSINX LLC está constituida — sin consideración a sus principios de conflicto de leyes. La resolución de disputas se describe en la Sección 17 (Disputas).
 
-## Disponibilidad e instalaciones no oficiales
+## 15. Disponibilidad e instalaciones no oficiales
 
 Faro se distribuye exclusivamente a través del App Store, y solo en los territorios donde decidimos ofrecerla. Si obtienes, instalas o usas la app por cualquier otro canal — incluyendo sideloading, dispositivos con jailbreak, o la evasión de la seguridad o de las restricciones regionales del App Store — ese uso no está autorizado ni tiene soporte: no somos responsables de él, no ofrecemos garantía ni soporte para él, y cumplir las leyes que te aplican es responsabilidad exclusivamente tuya.
 
-## Indemnización
+## 16. Indemnización
 
 Aceptas indemnizar y mantener indemne a KHASSINX LLC frente a reclamos, daños y honorarios razonables de abogados derivados de tu violación de estos términos o de tu mal uso de la app, en la medida en que lo permita la ley que te aplica.
 
-## Disputas
+## 17. Disputas
 
 Antes de presentar cualquier reclamo, aceptas escribir a [`legal@khassinx.com`](mailto:legal@khassinx.com) y darnos sesenta días para intentar resolver la disputa de manera informal. Salvo donde la ley te dé derecho a demandar en otro lugar (incluidos los tribunales de menor cuantía), las disputas se resolverán en los tribunales estatales o federales ubicados en Florida, y ambas partes aceptamos su jurisdicción. En la medida en que la ley lo permita, los reclamos solo pueden presentarse a título individual, no como parte de una acción colectiva o representativa. Si eres consumidor en una jurisdicción cuya ley te otorga protecciones irrenunciables, esas protecciones siguen siendo tuyas.
 
-## Disposiciones generales
+## 18. Disposiciones generales
 
 Si una parte de estos términos resulta inexigible, el resto sigue vigente. Que no hagamos valer una disposición no es una renuncia a ella. No puedes ceder estos términos; nosotros podemos cederlos como parte de una reorganización o transferencia del servicio. No somos responsables por demoras o fallas causadas por eventos fuera de nuestro control razonable. Estos términos se publican en Español e inglés; si las versiones alguna vez entran en conflicto, prevalece la versión en inglés.
 
-## 15. Contacto
+## 19. Contacto
 
 - **Correo**: legal@khassinx.com
 - **Postal**: Disponible por escrito a través del correo electrónico

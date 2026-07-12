@@ -36,4 +36,4 @@ La app de Faro en sí es **propietaria** y no está cubierta por esta dedicació
 
 ## Marcas comerciales
 
-Apple, iPhone, iPad, Mac, Apple Watch, App Store, iCloud, CryptoKit, iPadOS, macOS y watchOS son marcas comerciales de Apple Inc., registradas en EE. UU. y otros países. Apple Intelligence es una marca comercial de Apple Inc. IOS es una marca comercial o marca registrada de Cisco en EE. UU. y otros países y se utiliza bajo licencia. KhassinX y Faro son marcas comerciales de KHASSINX LLC. Las demás marcas comerciales pertenecen a sus respectivos propietarios.
+Apple, iPhone, iPad, Mac, Apple Watch, App Store, FaceTime, iCloud, CryptoKit, iPadOS, macOS y watchOS son marcas comerciales de Apple Inc., registradas en EE. UU. y otros países. Apple Intelligence y StoreKit son marcas comerciales de Apple Inc. IOS es una marca comercial o marca registrada de Cisco en EE. UU. y otros países y se utiliza bajo licencia. KhassinX y Faro son marcas comerciales de KHASSINX LLC. Las demás marcas comerciales pertenecen a sus respectivos propietarios.
